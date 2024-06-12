@@ -18,12 +18,12 @@ The management team need a way to track KPIs(sales, revenue, profit, returns), c
 
 
 ## Map Dashboard 
-![image](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI/blob/main/Exec_Dash.png)
+![image](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI/blob/main/MapDash.png)
 
 
 ## Product Detail Dashboard 
-![image](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI/blob/main/Exec_Dash.png)
+![image](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI/blob/main/ProductDetailDash.png)
 
 
 ## Customer Detail Dashboard 
-![image](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI/blob/main/Exec_Dash.png)
+![image](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI/blob/main/CustomerDetailDash.png)
