@@ -13,6 +13,10 @@ The management team need a way to track KPIs(sales, revenue, profit, returns), c
 - *Create calculated columns and measures with DAX*
 - *Design an interactive dashboard to visualise the data*
 
+## Data Model 
+
+![image](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI/blob/main/DataModel.png)
+
 ## Executive Dashboard 
 ![image](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI/blob/main/Exec_Dash.png)
 
